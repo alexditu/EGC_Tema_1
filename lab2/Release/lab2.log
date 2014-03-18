@@ -1,0 +1,120 @@
+﻿Build started 01-Nov-13 9:26:41 PM.
+     1>Project "D:\Facultate\Anul III\Semestrul I\EGC\Teme\Tema 1\Lab 3\lab3\lab2\lab2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Facultate\ProgramFiles\Visual Studio 2012\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Collision.cpp Enemy1.cpp Enemy2.cpp Enemy3.cpp GenericEnemy.cpp Player.cpp Framework\DrawingWindow.cpp Framework\Transform2D.cpp Framework\Transform3D.cpp Framework\Visual2D.cpp main.cpp
+         Collision.cpp
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(25): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(26): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(49): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(50): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Collision.cpp(175): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+         Enemy1.cpp
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(25): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(26): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(49): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(50): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Enemy1.cpp(34): warning C4018: '<' : signed/unsigned mismatch
+         Enemy2.cpp
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(25): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(26): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(49): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(50): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Enemy2.cpp(26): warning C4018: '<' : signed/unsigned mismatch
+         Enemy3.cpp
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(25): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(26): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(49): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(50): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         GenericEnemy.cpp
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(25): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(26): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(49): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(50): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>GenericEnemy.cpp(51): warning C4018: '<' : signed/unsigned mismatch
+     1>GenericEnemy.cpp(113): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>GenericEnemy.cpp(117): warning C4305: '+=' : truncation from 'double' to 'float'
+         Player.cpp
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(25): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(26): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(49): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(50): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         DrawingWindow.cpp
+     1>Framework\DrawingWindow.cpp(117): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\DrawingWindow.cpp(123): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\DrawingWindow.cpp(133): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\DrawingWindow.cpp(143): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\DrawingWindow.cpp(147): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\DrawingWindow.cpp(212): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\DrawingWindow.cpp(218): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\DrawingWindow.cpp(228): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\DrawingWindow.cpp(238): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\DrawingWindow.cpp(242): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\DrawingWindow.cpp(258): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\DrawingWindow.cpp(474): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\DrawingWindow.cpp(492): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\DrawingWindow.cpp(508): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\DrawingWindow.cpp(525): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\DrawingWindow.cpp(542): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\DrawingWindow.cpp(559): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\DrawingWindow.cpp(577): warning C4018: '<' : signed/unsigned mismatch
+         Transform2D.cpp
+     1>Framework\Transform2D.cpp(144): warning C4018: '<' : signed/unsigned mismatch
+     1>Framework\Transform2D.cpp(168): warning C4018: '<' : signed/unsigned mismatch
+         Transform3D.cpp
+         Visual2D.cpp
+     1>Framework\Visual2D.cpp(87): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>Framework\Visual2D.cpp(88): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>Framework\Visual2D.cpp(89): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>Framework\Visual2D.cpp(90): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+         main.cpp
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(25): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(26): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(49): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 1\lab 3\lab3\lab2\Framework/Circle2D.h(50): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(44): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>main.cpp(72): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(125): warning C4018: '<' : signed/unsigned mismatch
+     1>main.cpp(140): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>main.cpp(176): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(177): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(179): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(180): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(206): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(208): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(209): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(221): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(222): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(224): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(225): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(237): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(239): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(240): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(255): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(267): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(270): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(289): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(301): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>main.cpp(304): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(403): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>main.cpp(440): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>main.cpp(477): warning C4018: '<' : signed/unsigned mismatch
+     1>main.cpp(405): warning C4101: 'alfa' : unreferenced local variable
+     1>main.cpp(598): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         D:\Facultate\ProgramFiles\Visual Studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Facultate\Anul III\Semestrul I\EGC\Teme\Tema 1\Lab 3\lab3\Release\lab2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Facultate\Anul III\Semestrul I\EGC\Teme\Tema 1\Lab 3\lab3\Release\lab2.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Facultate\Anul III\Semestrul I\EGC\Teme\Tema 1\Lab 3\lab3\Release\lab2.lib" /MACHINE:X86 /SAFESEH Release\Collision.obj
+         Release\Enemy1.obj
+         Release\Enemy2.obj
+         Release\Enemy3.obj
+         Release\GenericEnemy.obj
+         Release\Player.obj
+         Release\DrawingWindow.obj
+         Release\Transform2D.obj
+         Release\Transform3D.obj
+         Release\Visual2D.obj
+         Release\main.obj
+     1>LINK : fatal error LNK1104: cannot open file 'freeglut.lib'
+     1>Done Building Project "D:\Facultate\Anul III\Semestrul I\EGC\Teme\Tema 1\Lab 3\lab3\lab2\lab2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.09
